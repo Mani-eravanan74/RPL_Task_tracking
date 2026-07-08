@@ -1,0 +1,3 @@
+GAMIFY To-Do List/ Habit Tracking:
+
+The core idea of this project is that tracking tasks of specific categories increases our level and we can build a character as like in a RPG(Role-Playing-Game) for example- SKYRIM.
